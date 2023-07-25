@@ -17,7 +17,7 @@ chmod +x give
 ###### Step 4: Create a symbolic link
 ln -s /full/path/to/your/directory/give /usr/local/bin/estat
 
-'>>> estat plot "TIPSII40" "DE" 0 10 </br>
+'>>> estat {command}
 
 ![estat (1)](https://github.com/ssdrf/EurostatXplore/assets/138875022/1e788f3e-ad8b-43ec-8c40-d3c5c455e14a)
 
