@@ -1,4 +1,4 @@
-# EuroStatXplore
+# EurostatXplore
 A terminal-based Eurostat data previewer.
 
 #### Commands:
