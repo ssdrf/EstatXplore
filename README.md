@@ -2,6 +2,7 @@
 A terminal-based Eurostat data previewer.
 
 #### >>> estat {command}
+![estat (1)](https://github.com/ssdrf/EurostatXplore/assets/138875022/63869d1d-eb4e-4976-ad82-5b6033671d1b)
 
 
 
