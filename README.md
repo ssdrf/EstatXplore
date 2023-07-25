@@ -6,7 +6,7 @@ A terminal-based Eurostat data previewer.
 
 
 ###### Step 1: Clone the repository
-git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
+git clone https://github.com/{name/repo}.git
 
 ###### Step 2: Navigate into the directory
 cd YourRepositoryName
