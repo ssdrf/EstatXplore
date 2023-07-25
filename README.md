@@ -1,18 +1,7 @@
 # EstatXplore
-Quick Eurostat previewer
+A terminal based Eurostat data previewer
 
+python give.py {search "search-string"} {show "code-string"} {plot "code-string" "Geo" Column Period
 
-
-
-
-
-
-echo "# EstatXplore" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ssdrf/EstatXplore.git
-git push -u origin main
-
+![Estat_terminal](https://github.com/ssdrf/EstatXplore/assets/138875022/1314e987-226d-4453-850b-3bc763b6231c)
 
