@@ -19,7 +19,8 @@ ln -s /full/path/to/your/directory/give /usr/local/bin/estat
 
 ">>>" estat give plot "TIPSII40" "DE" 0 10 </br>
 
-![Estat](https://github.com/ssdrf/EstatXplore/assets/138875022/b800aa4a-7cdd-4ddb-9a2b-b41033bc457b)
+![Estat](https://github.com/ssdrf/EurostatXplore/assets/138875022/7f89ef2b-80e5-42fe-b332-2fb4e9004f76)
+
 ###### Commands:
 {plot} "code-string" "geo-string" {col} {period} </br>
 {search} "search-string" </br>
