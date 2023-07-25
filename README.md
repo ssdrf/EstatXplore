@@ -1,5 +1,5 @@
 # EstatXplore
-A terminal-based Eurostat data previewer
+A terminal-based Eurostat data previewer.
 
 #### Commands:
 python␣give.py␣{search␣"search-string"} {show␣"code-string"} {plot "code-string"␣"Geo"␣Column␣Period}
