@@ -1,0 +1,6 @@
+eurostat
+pandas
+plotille
+re
+warnings
+plotille
