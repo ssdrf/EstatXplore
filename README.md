@@ -5,7 +5,7 @@ A terminal-based Eurostat data previewer.
 
 ![estat (1)](https://github.com/ssdrf/EurostatXplore/assets/138875022/1e788f3e-ad8b-43ec-8c40-d3c5c455e14a)
 
-## Setup
+### Setup
 
 ###### Step 1: Clone the repository
 ``` git clone https://github.com/{name/repo}.git ```
