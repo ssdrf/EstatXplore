@@ -21,9 +21,3 @@ ln -s /full/path/to/your/directory/give /usr/local/bin/estat
 
 ![estat (1)](https://github.com/ssdrf/EurostatXplore/assets/138875022/1e788f3e-ad8b-43ec-8c40-d3c5c455e14a)
 
-
-
-###### Commands:
-{plot} "code-string" "geo-string" {col} {period} </br>
-{search} "search-string" </br>
-{show} "code-string"
