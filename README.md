@@ -1,5 +1,5 @@
 # EstatXplore
-A terminal-based Eurostat data previewer.
+A CLI-based Eurostat data previewer.
 
 #### >>> estat {command}
 ![estat_fin](https://github.com/ssdrf/EurostatXplore/assets/138875022/0442f7d9-d463-480d-a378-51271355738f)
