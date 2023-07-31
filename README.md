@@ -1,4 +1,4 @@
-# EurostatXplore
+# EstatXplore
 A terminal-based Eurostat data previewer.
 
 #### >>> estat {command}
